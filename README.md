@@ -10,16 +10,18 @@ Several quantum gates have been provided which can be used to program the quantu
 
 ## Contents:
 
-QuantumComputer.ipynb - jupyter notebook containing quantum computer
-circles.py - bloch circle visualization library
+*QuantumComputer.ipynb* - jupyter notebook containing quantum computer
+*circles.py* - bloch circle visualization library
 
-Libraries (These specific versions are not necessarily required, but these are the version I am running)
+### Libraries: 
 python 3.6.9
 jupyter 5.7.8
 numpy 1.19.4
 ipycanvas 0.8.2 - required for bloch circle visuals
 
-For ipycanvas to work the result of ```$ jupyter nbextensions list``` should be 
+(These specific versions are not necessarily required, but these are the version I am running)
+
+For ipycanvas to work, the result of ```$ jupyter nbextensions list``` should be 
 
 ```
 Known nbextensions:
