@@ -21,7 +21,7 @@ ipycanvas 0.8.2 - required for bloch circle visuals
 
 For ipycanvas to work the result of "$ jupyter nbextensions list" should be 
 
-'''
+```
 Known nbextensions:
   config dir: /usr/etc/jupyter/nbconfig
     notebook section
@@ -31,4 +31,4 @@ Known nbextensions:
     notebook section
       jupyter-js-widgets/extension  enabled 
       - Validating: OK
-'''
+```
