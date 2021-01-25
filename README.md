@@ -19,7 +19,7 @@ jupyter 5.7.8
 numpy 1.19.4
 ipycanvas 0.8.2 - required for bloch circle visuals
 
-For ipycanvas to work the result of "$ jupyter nbextensions list" should be 
+For ipycanvas to work the result of ```$ jupyter nbextensions list``` should be 
 
 ```
 Known nbextensions:
