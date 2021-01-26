@@ -19,7 +19,7 @@ Several quantum gates have been provided which can be used to program the quantu
 * numpy 1.19.4
 * ipycanvas 0.8.2 - required for bloch circle visuals
 
-(These specific versions are not necessarily required, but these are the version I am running)
+(These specific versions are not necessarily required, but these are the versions I am running)
 
 For ipycanvas to work, the result of ```$ jupyter nbextensions list``` should be 
 
