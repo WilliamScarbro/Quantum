@@ -14,10 +14,10 @@ Several quantum gates have been provided which can be used to program the quantu
 *circles.py* - bloch circle visualization library
 
 ### Libraries: 
-python 3.6.9
-jupyter 5.7.8
-numpy 1.19.4
-ipycanvas 0.8.2 - required for bloch circle visuals
+* python 3.6.9
+* jupyter 5.7.8
+* numpy 1.19.4
+* ipycanvas 0.8.2 - required for bloch circle visuals
 
 (These specific versions are not necessarily required, but these are the version I am running)
 
