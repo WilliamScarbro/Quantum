@@ -11,6 +11,7 @@ Several quantum gates have been provided which can be used to program the quantu
 ## Contents:
 
 *QuantumComputer.ipynb* - jupyter notebook containing quantum computer
+
 *circles.py* - bloch circle visualization library
 
 ### Libraries: 
